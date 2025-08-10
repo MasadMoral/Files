@@ -1,6 +1,6 @@
 {
   "alert": {
-    "visible": true,
+    "visible": false,
     "message": "New update available! Download now for better performance."
   }
 }
