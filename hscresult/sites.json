@@ -1,32 +1,34 @@
 [
   {
-    "title": "Dhaka Board",
-    "url": "https://dhakaeducationboard.gov.bd",
+    "title": "Educationboardresults",
+    "url": "http://www.educationboardresults.gov.bd/",
     "bgimg": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "img": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "board_code": "DHK",
     "description": "Dhaka Education Board Results"
-  },  {
-    "title": "Dhaka Board",
-    "url": "https://dhakaeducationboard.gov.bd",
+  },
+  {
+    "title": "DhakaEducationBoard",
+    "url": "https://result.dhakaeducationboard.gov.bd/v2/home",
     "bgimg": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "img": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "board_code": "DHK",
     "description": "Dhaka Education Board Results"
-  },  {
-    "title": "Dhaka Board",
-    "url": "https://dhakaeducationboard.gov.bd",
+  },
+  {
+    "title": "Eboardresults Bn",
+    "url": "https://eboardresults.com/v2/home?lang=bn",
     "bgimg": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "img": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "board_code": "DHK",
     "description": "Dhaka Education Board Results"
-  },  {
-    "title": "Dhaka Board",
-    "url": "https://dhakaeducationboard.gov.bd",
+  },
+  {
+    "title": "Eboardresults En",
+    "url": "https://eboardresults.com/v2/home?lang=en",
     "bgimg": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "img": "https://www.bssnews.net/assets/news_photos/2025/04/22/image-265633-1745326298.jpg",
     "board_code": "DHK",
     "description": "Dhaka Education Board Results"
   }
-   
 ]
